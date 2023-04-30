@@ -22,7 +22,6 @@ void unsafe_increment(int &v) {
     }
 }
 
-// ./racers type(1/2)
 int main() {
 
     int v1 = 0;
